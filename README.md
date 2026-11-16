@@ -1,4 +1,4 @@
-Hi, my name is Marwan Mohamed AbdelBaky.
+Hi, my name is Marwan Mohamed.
 I'm a CS student in Luxor University in Egypt, interested in learning cybersecurity and playing CTF competitions.
 I learn cryptography, join alot of ctfs, familiar with c++ and python, study offensive security.
 
